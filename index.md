@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Welcome to the Local Internet Archive (LIA) Documentation
 
-You can use the [editor on GitHub](https://github.com/Baker-Street-Enterprises/lia-documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+LIA is an online capture tool for creating a localized version of the Internet. A flexible architecture allows for end users to customize the output of the capture or forward its contents on to enrich the data even more so.
+LIA helps make your online work easier by being your own personal private or sharable Internet Search Engine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+LIA can be integrated with 3rd party providers through json schemas.
 
-### Markdown
+## Tutorials:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Getting Started
+* Getting your API key
+* Registering your API
+* Ways to capture content:
+  * Passive Capture
+  * Active Capture
+  * Upload Capture
+  * Media that can be captured
 
-```markdown
-Syntax highlighted code block
+### CaseManagement Basics 
+ 
+* Case Management
+  * Selecting your current case
+  * Adding, Editing, or Deleting a case
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Tag Management
+  * Tags
+    * What are tags?
+    * How to add tags?
+    * How to delete a tag for a single capture
+    * How to delete a tag for all tagged captures
+ 
 
-1. Numbered
-2. List
+### Selectors
+    * What are selectors
+    * How to add selectors
+    * How to delete a selector
 
-**Bold** and _Italic_ and `Code` text
+### Configuration Management (Options Screen)
+These are the options you can set:
 
-[Link](url) and ![Image](src)
-```
+### The Main App
+This screen houses all the functionality for searching a bisecting your data. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### How to write a plugins
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Baker-Street-Enterprises/lia-documentation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
