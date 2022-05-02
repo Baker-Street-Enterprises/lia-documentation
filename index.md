@@ -8,9 +8,8 @@ LIA can be integrated with 3rd party providers through json schemas.
 ## Tutorials:
 
 ### Getting Started
-* [Getting your API key](/get_license/)
+* [Getting your API key](get_licensed/)
 * Registering your API
-* 
 * Ways to capture content:
   * Passive Capture
   * Active Capture
@@ -25,7 +24,7 @@ LIA can be integrated with 3rd party providers through json schemas.
 
 
 ### Tag Management
-  * Tags
+  * [Tags](tag_management/)
     * What are tags?
     * How to add tags?
     * How to delete a tag for a single capture
@@ -46,7 +45,7 @@ This screen houses all the functionality for searching a bisecting your data. He
 
 ### How to write a plugins
 Plugins provide the ability to push or pull data from other third party data services. Learn more about 
-plugins [here](/plugin_customization/).
+plugins [here](plugin_customization/).
 
 
 
