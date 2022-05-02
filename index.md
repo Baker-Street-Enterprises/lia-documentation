@@ -8,8 +8,9 @@ LIA can be integrated with 3rd party providers through json schemas.
 ## Tutorials:
 
 ### Getting Started
-* Getting your API key
+* [Getting your API key](/get_license/)
 * Registering your API
+* 
 * Ways to capture content:
   * Passive Capture
   * Active Capture
@@ -40,10 +41,12 @@ LIA can be integrated with 3rd party providers through json schemas.
 These are the options you can set:
 
 ### The Main App
-This screen houses all the functionality for searching a bisecting your data. 
+This screen houses all the functionality for searching a bisecting your data. Here is a direct link, 
 
 
 ### How to write a plugins
+Plugins provide the ability to push or pull data from other third party data services. Learn more about 
+plugins [here](/plugin_customization/).
 
 
 
