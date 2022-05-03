@@ -3,35 +3,37 @@
 LIA is an online capture tool for creating a localized version of the Internet. A flexible architecture allows for end users to customize the output of the capture or forward its contents on to enrich the data even more so.
 LIA helps make your online work easier by being your own personal private or sharable Internet Search Engine.
 
-LIA can be integrated with 3rd party providers through json schemas.
+LIA can be integrated with 3rd party providers through json config files.
 
+To get a license you must go purchase a "Trial" or "Professional" version of the software from https://bakerstreet.llc. 
+The trial version is fully functioning for 30 days. 
 ## Tutorials:
 
 ### Getting Started
-* [Getting your API key](get_licensed/)
-* Registering your API
-* Ways to capture content:
+* Get an API key from [bakerstreet.llc](https://bakerstreet.llc)
+* [Registering your API License Key](register_your_api_license)
+* [Ways to capture content:](capture)
   * Passive Capture
   * Active Capture
   * Upload Capture
-  * Media that can be captured
+  * Known Limitation
 
-### CaseManagement Basics 
- 
-* Case Management
+### Case Management
+* [Case Management](case_management)
   * Selecting your current case
   * Adding, Editing, or Deleting a case
 
 
 ### Tag Management
-  * [Tags](tag_management/)
+  * [Tags](tag_management)
     * What are tags?
     * How to add tags?
     * How to delete a tag for a single capture
     * How to delete a tag for all tagged captures
  
 
-### Selectors
+### Selector Management
+  * [Selectors](selector_management)
     * What are selectors
     * How to add selectors
     * How to delete a selector
@@ -43,9 +45,26 @@ These are the options you can set:
 This screen houses all the functionality for searching a bisecting your data. Here is a direct link, 
 
 
-### How to write a plugins
+### How to Write Plugins
 Plugins provide the ability to push or pull data from other third party data services. Learn more about 
-plugins [here](plugin_customization/).
+plugins [here](plugins).
+
+
+### How to Filter Data
+
+### Importing & Exporting Data
+
+LIA makes it very easy to get the data in and out of the system. 
+
+[Exporting data](export_data) creates a zipped file that possess a spreadsheet with all the meta-data about the content
+and a list of files that are the content that was persisted by the end user. 
+
+
+
+
+
+
+
 
 
 

@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Local Internet Archive (LIA) User Guide
+url: https://baker-street-enterprises.github.io/
+baseurl: /lia-documentation
+breadcrumbs: true
+
